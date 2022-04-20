@@ -1,11 +1,8 @@
 body{
-    /*background-color: #a6c0e2;*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .common{
-    /*background-color: #93c5e5;
-    border: solid 2px rgb(26, 157, 233);*/
     position: absolute;
 }
 
@@ -36,6 +33,7 @@ a:hover{
     left:5px;
     right:5px;
     bottom: 64px;
+    background-color: white;
 }
 
 .title{
