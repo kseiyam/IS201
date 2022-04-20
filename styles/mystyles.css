@@ -1,0 +1,71 @@
+a{
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    font-weight: bolder;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(219, 219, 131);
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(219, 219, 131);
+}
+
+body{
+    background-color: rgb(239, 237, 220);
+}
+
+.headings{
+    font-weight: bold;
+    font-style: italic;
+    font-size:20px;
+    color: rgb(34, 32, 32);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.subheadings{
+    font-style: normal;
+    font-size: 17px;
+    font-weight: lighter
+}
+
+.description{
+    font-style: normal;
+    font-size: 15px;
+    font-weight: normal
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+    font-size:20px;
+    color: rgb(34, 32, 32);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imagetext {
+    text-align: justify;
+    width:300;
+}
+
+.socialmedialink{
+    color:blue;
+}
+
+.socialmedialink:hover{
+    color:purple;
+    text-decoration: underline;
+}
+
+.center{
+    text-align: center;
+}
